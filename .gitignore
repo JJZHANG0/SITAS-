@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+2026康莱德项目立项申请书-SITAS加密目镜.docx
+build/
+dist/
+reports/
+outputs/
+watermark_records/
+scripts/outputs/
+scripts/records/
+scripts/reports/*.html
+scripts/reports/*.json
+packaging/macos_dmg_stage/
